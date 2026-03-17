@@ -17,7 +17,7 @@ Sviluppatore Backend autodidatta con **1-2 anni di esperienza** nella costruzion
 ## 🌍 Lingue
 
 - 🇪🇸 Spagnolo — madrelingua
-- 🇮🇹 Italiano — fluente
+- 🇮🇹 Italiano — 60%
 
 ---
 
