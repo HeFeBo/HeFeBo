@@ -1,6 +1,6 @@
 # Ciao, sono Hector 👋
 
-Sviluppatore Backend autodidatta con **1-2 anni di esperienza** nella costruzione di API REST con Java e Spring Boot. Originario dell'America Latina, attualmente residente in **Italia**, dove sto costruendo la mia carriera nel mondo dello sviluppo software.
+Sviluppatore Backend autodidatta con **1-2 anni di esperienza** nella costruzione di API REST con Java e Spring Boot. Originario del Peru, attualmente residente in **Italia**, dove sto costruendo la mia carriera nel mondo dello sviluppo software.
 
 ---
 
